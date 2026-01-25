@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey there, I'm Yotam - Launching ideas into code 💻</h1>
-<h3 align="center">A software developer from Canada, delivering efficient and impactful code</h3>
+<h3 align="center">A software developer and data analyst from Canada, delivering efficient and impactful code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yotam1802&label=Profile%20views&color=0e75b6&style=flat" alt="yotam1802" /> </p>
 

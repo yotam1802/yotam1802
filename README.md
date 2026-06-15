@@ -1,9 +1,8 @@
-<h1 align="center">🚀 Hey there, I'm Yotam - Launching ideas into code 💻</h1>
 <h3 align="center">Computer Science & Economics student at the University of Calgary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yotam1802&label=Profile%20views&color=0e75b6&style=flat" alt="yotam1802" /> </p>
 
-- 🔭 I’m eager to collaborate on new projects with clubs and organizations - let's **connect**
+- Software Development Intern at Engineered Air, building enterprise software across APIs, databases, and internal engineering applications.
 
 - 📫 Feel free to reach out to me at **rojnovyotam@gmail.com**
 

@@ -1,4 +1,9 @@
-<h3 align="center">Computer Science & Economics student at the University of Calgary</h3>
+<div align="center">
+
+# Yotam Rojnov
+
+### Computer Science & Economics Student  
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yotam1802&label=Profile%20views&color=0e75b6&style=flat" alt="yotam1802" /> </p>
 

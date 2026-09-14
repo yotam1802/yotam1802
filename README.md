@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yotam1802&label=Profile%20views&color=0e75b6&style=flat" alt="yotam1802" /> </p>
 
-- Software Development Intern at Engineered Air, building enterprise software across APIs, databases, and internal engineering applications.
+- Software Developer at Engineered Air, building enterprise software across APIs, databases, and internal engineering applications.
 
 - 📫 Feel free to reach out to me at **rojnovyotam@gmail.com**
 
